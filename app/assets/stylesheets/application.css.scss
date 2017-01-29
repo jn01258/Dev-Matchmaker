@@ -50,6 +50,21 @@ h1,h2,h3 {
   }
 }  
 
+//Hamburger menu toggle
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: white;
+}
+
+//Hamburger menu toggle
+.navbar-default .navbar-toggle {
+  border: 2px solid white;
+  &:hover, &:focus {
+    background-color: #2F0743;
+  }
+}
+
+
+
 .home-callout {
   color: white;
   margin-top: -20px;
