@@ -3,6 +3,17 @@
   height: 128px;
 }
 
+.job-title-icon {
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  border: 2px solid #de783b;
+  border-radius: 4px;
+  background-color: #de783b;
+  color: white;
+  text-align: center;
+}
+
 .well.profile-block {
   color: #fff;
   h3 {
